@@ -9,7 +9,11 @@ const NavBar = () => {
         </h2>
         <div>
           <div>
-            <a href="https://chaoocharles.dev/" target="_blank">
+            <a
+              href="https://chaoocharles.dev/"
+              target="_blank"
+              rel="noreferrer"
+            >
               My Portfolio
             </a>
           </div>
