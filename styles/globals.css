@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.article img {
+  width: 100%;
+}
+
+pre {
+  color: white;
+  background: black;
+  padding: 20px;
+}
