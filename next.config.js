@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ["localhost"],
+    domains: ["chaoo-strapi-blog.herokuapp.com"],
   },
 };
 

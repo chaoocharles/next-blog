@@ -1,1 +1,1 @@
-export const baseurl = "http://localhost:1337";
+export const baseurl = "https://chaoo-strapi-blog.herokuapp.com";
